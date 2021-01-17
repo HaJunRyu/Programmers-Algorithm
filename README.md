@@ -6,4 +6,5 @@
 
 ### Level_1
 
-- 📌 [K번째 수](https://programmers.co.kr/learn/courses/30/lessons/42748)
+- 📌  [K번째 수](https://programmers.co.kr/learn/courses/30/lessons/42748)
+- 📌  [완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576)

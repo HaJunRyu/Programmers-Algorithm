@@ -1,8 +1,8 @@
 function solution(array, commands) {
   return commands.map(command => {
-      const [start, end, target] = command;
-      const sorted = array.slice(start - 1, end).sort((num1, num2) => num1 - num2);
-      return sorted[target - 1];
+    const [start, end, target] = command;
+    const sorted = array.slice(start - 1, end).sort((num1, num2) => num1 - num2);
+    return sorted[target - 1];
   });
 }
 

@@ -11,3 +11,4 @@
 - 📌 &nbsp;[모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840)
 - 📌 &nbsp;[하샤드 수](https://programmers.co.kr/skill_checks/235745)
 - 📌 &nbsp;[두 개 뽑아서 더하기](https://programmers.co.kr/learn/courses/30/lessons/68644)
+- 📌 &nbsp;[가운데 글자 가져오기](https://programmers.co.kr/learn/courses/30/lessons/12903)

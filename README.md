@@ -14,3 +14,8 @@
 - 📌 &nbsp;[가운데 글자 가져오기](https://programmers.co.kr/learn/courses/30/lessons/12903)
 - 📌 &nbsp;[같은 숫자는 싫어](https://programmers.co.kr/learn/courses/30/lessons/12906)
 - 📌 &nbsp;[두 정수 사이의 합](https://programmers.co.kr/learn/courses/30/lessons/12912)
+
+### Kakao_Commerce 코딩테스트(연습용)
+지문 및 테스트 케이스 등에 저작권이 있음을 인지하였고 배포 및 2차 제작물 목적이 아닌 작성한 코드를 기록하는 용도로만 사용했습니다.
+
+- 📌 &nbsp;1번_게임 캐릭터 생성(문제 비공개)

@@ -24,6 +24,7 @@
 - 📌 &nbsp;[x만큼 간격이 있는 n개의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12954)
 - 📌 &nbsp;[정수 제곱근 판별](https://programmers.co.kr/learn/courses/30/lessons/12934)
 - 📌 &nbsp;[2016년](https://programmers.co.kr/learn/courses/30/lessons/12901)
+- 📌 &nbsp;[평균 구하기](https://programmers.co.kr/learn/courses/30/lessons/12944)
 
 ### Kakao_Commerce 코딩테스트(연습용)
 지문 및 테스트 케이스 등에 저작권이 있음을 인지하였고 배포 및 2차 제작물 목적이 아닌 작성한 코드를 기록하는 용도로만 사용했습니다.

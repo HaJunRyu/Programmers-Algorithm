@@ -41,8 +41,10 @@
 - 📌 &nbsp;[이상한 문자 만들기](https://programmers.co.kr/learn/courses/30/lessons/12930)
 - 📌 &nbsp;[체육복](https://programmers.co.kr/learn/courses/30/lessons/42862)
 - 📌 &nbsp;[3진법 뒤집기](https://programmers.co.kr/learn/courses/30/lessons/68935)
+- 📌 &nbsp;[로또의 최고 순위와 최저 순위](https://programmers.co.kr/learn/courses/30/lessons/77484)
 
 ### Kakao_Commerce 코딩테스트(연습용)
+
 지문 및 테스트 케이스 등에 저작권이 있음을 인지하였고 배포 및 2차 제작물 목적이 아닌 작성한 코드를 기록하는 용도로만 사용했습니다.
 
-- 📌 &nbsp;1번_게임 캐릭터 생성(문제 비공개)
+- 📌 &nbsp;1번\_게임 캐릭터 생성(문제 비공개)

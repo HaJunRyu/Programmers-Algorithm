@@ -42,6 +42,7 @@
 - 📌 &nbsp;[체육복](https://programmers.co.kr/learn/courses/30/lessons/42862)
 - 📌 &nbsp;[3진법 뒤집기](https://programmers.co.kr/learn/courses/30/lessons/68935)
 - 📌 &nbsp;[로또의 최고 순위와 최저 순위](https://programmers.co.kr/learn/courses/30/lessons/77484)
+- 📌 &nbsp;[내적](https://programmers.co.kr/learn/courses/30/lessons/70128)
 
 ### Kakao_Commerce 코딩테스트(연습용)
 

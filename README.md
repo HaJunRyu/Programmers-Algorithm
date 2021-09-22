@@ -45,6 +45,10 @@
 - 📌 &nbsp;[내적](https://programmers.co.kr/learn/courses/30/lessons/70128)
 - 📌 &nbsp;[숫자 문자열과 영단어](https://programmers.co.kr/learn/courses/30/lessons/81301)
 
+### Level_2
+
+- 📌 &nbsp;[124 나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899)
+
 ### 위클리 챌린지
 
 - 📌 &nbsp;[1주차\_부족한 금액 계산하기](https://programmers.co.kr/learn/courses/30/lessons/82612)

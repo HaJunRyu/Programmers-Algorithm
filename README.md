@@ -45,6 +45,10 @@
 - 📌 &nbsp;[내적](https://programmers.co.kr/learn/courses/30/lessons/70128)
 - 📌 &nbsp;[숫자 문자열과 영단어](https://programmers.co.kr/learn/courses/30/lessons/81301)
 
+### 위클리 챌린지
+
+- 📌 &nbsp;[1주차\_부족한 금액 계산하기](https://programmers.co.kr/learn/courses/30/lessons/82612)
+
 ### Kakao_Commerce 코딩테스트(연습용)
 
 지문 및 테스트 케이스 등에 저작권이 있음을 인지하였고 배포 및 2차 제작물 목적이 아닌 작성한 코드를 기록하는 용도로만 사용했습니다.

@@ -52,6 +52,7 @@
 ### Level_2
 
 - 📌 &nbsp;[124 나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899)
+- 📌 &nbsp;[최댓값과 최솟값](https://school.programmers.co.kr/learn/courses/30/lessons/12939)
 
 ### 위클리 챌린지
 

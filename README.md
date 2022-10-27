@@ -48,12 +48,12 @@
 - 📌 &nbsp;[나머지가 1이 되는 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/87389?language=javascript)
 - 📌 &nbsp;[음양 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/76501)
 - 📌 &nbsp;[없는 숫자 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/86051)
+- 📌 &nbsp;[약수의 개수와 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/77884)
 
 ### Level_2
 
 - 📌 &nbsp;[124 나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899)
 - 📌 &nbsp;[최댓값과 최솟값](https://school.programmers.co.kr/learn/courses/30/lessons/12939)
-- 📌 &nbsp;[약수의 개수와 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/77884)
 
 ### 위클리 챌린지
 

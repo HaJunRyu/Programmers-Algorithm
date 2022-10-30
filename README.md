@@ -54,6 +54,7 @@
 
 - 📌 &nbsp;[124 나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899)
 - 📌 &nbsp;[최댓값과 최솟값](https://school.programmers.co.kr/learn/courses/30/lessons/12939)
+- 📌 &nbsp;[JadenCase 문자열 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12951)
 
 ### 위클리 챌린지
 

@@ -57,6 +57,7 @@
 - 📌 &nbsp;[JadenCase 문자열 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12951)
 - 📌 &nbsp;[올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909)
 - 📌 &nbsp;[최솟값 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12941)
+- 📌 &nbsp;[이진 변환 반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129)
 
 ### 위클리 챌린지
 

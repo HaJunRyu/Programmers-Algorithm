@@ -59,6 +59,7 @@
 - 📌 &nbsp;[최솟값 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12941)
 - 📌 &nbsp;[이진 변환 반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129)
 - 📌 &nbsp;[숫자의 표현](https://school.programmers.co.kr/learn/courses/30/lessons/12924)
+- 📌 &nbsp;[피보나치 수](https://school.programmers.co.kr/learn/courses/30/lessons/12945)
 
 ### 위클리 챌린지
 

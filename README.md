@@ -61,6 +61,7 @@
 - 📌 &nbsp;[이진 변환 반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129)
 - 📌 &nbsp;[숫자의 표현](https://school.programmers.co.kr/learn/courses/30/lessons/12924)
 - 📌 &nbsp;[피보나치 수](https://school.programmers.co.kr/learn/courses/30/lessons/12945)
+- 📌 &nbsp;[다음 큰 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12911)
 
 ### 위클리 챌린지
 

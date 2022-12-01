@@ -50,6 +50,7 @@
 - 📌 &nbsp;[없는 숫자 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/86051)
 - 📌 &nbsp;[약수의 개수와 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/77884)
 - 📌 &nbsp;[예산](https://school.programmers.co.kr/learn/courses/30/lessons/12982)
+- 📌 &nbsp;[삼총사](https://school.programmers.co.kr/learn/courses/30/lessons/131705)
 
 ### Level_2
 

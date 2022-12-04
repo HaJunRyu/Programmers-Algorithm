@@ -52,6 +52,7 @@
 - 📌 &nbsp;[예산](https://school.programmers.co.kr/learn/courses/30/lessons/12982)
 - 📌 &nbsp;[삼총사](https://school.programmers.co.kr/learn/courses/30/lessons/131705)
 - 📌 &nbsp;[최소 직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491)
+- 📌 &nbsp;[비밀지도](https://school.programmers.co.kr/learn/courses/30/lessons/17681)
 
 ### Level_2
 

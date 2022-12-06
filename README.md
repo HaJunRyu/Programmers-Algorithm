@@ -4,6 +4,10 @@
 
 ## JavaScript
 
+### Level_0
+
+- 📌 &nbsp;[암호 해독](https://school.programmers.co.kr/learn/courses/30/lessons/120892)
+
 ### Level_1
 
 - 📌 &nbsp;[K번째 수](https://programmers.co.kr/learn/courses/30/lessons/42748)
